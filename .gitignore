@@ -4,3 +4,6 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+*.csproj
+*.sln
+*.unityproj
